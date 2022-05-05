@@ -1,0 +1,6 @@
+C:\Users\mapa3\Desktop\Wielo\Zadanie 4\bin\Debug\Zadanie 4.exe.config
+C:\Users\mapa3\Desktop\Wielo\Zadanie 4\bin\Debug\Zadanie 4.exe
+C:\Users\mapa3\Desktop\Wielo\Zadanie 4\bin\Debug\Zadanie 4.pdb
+C:\Users\mapa3\Desktop\Wielo\Zadanie 4\obj\Debug\Zadanie 4.csproj.CoreCompileInputs.cache
+C:\Users\mapa3\Desktop\Wielo\Zadanie 4\obj\Debug\Zadanie 4.exe
+C:\Users\mapa3\Desktop\Wielo\Zadanie 4\obj\Debug\Zadanie 4.pdb

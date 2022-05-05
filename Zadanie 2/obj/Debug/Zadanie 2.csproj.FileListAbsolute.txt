@@ -1,0 +1,6 @@
+C:\Users\mapa3\Desktop\Wielo\Zadanie 2\bin\Debug\Zadanie 2.exe.config
+C:\Users\mapa3\Desktop\Wielo\Zadanie 2\bin\Debug\Zadanie 2.exe
+C:\Users\mapa3\Desktop\Wielo\Zadanie 2\bin\Debug\Zadanie 2.pdb
+C:\Users\mapa3\Desktop\Wielo\Zadanie 2\obj\Debug\Zadanie 2.csproj.CoreCompileInputs.cache
+C:\Users\mapa3\Desktop\Wielo\Zadanie 2\obj\Debug\Zadanie 2.exe
+C:\Users\mapa3\Desktop\Wielo\Zadanie 2\obj\Debug\Zadanie 2.pdb

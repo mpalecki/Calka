@@ -1,0 +1,15 @@
+Kolejne zadania to różne sposoby rozwiązania problemu
+
+
+(i)	Próba I: 15321ms	Próba II: 13159ms	Próba III: 14645ms	Średnia: 14375ms
+(ii)	Próba I: 46690ms	Próba II: 46673ms	Próba III: 46740ms	Średnia: 46701ms
+(ii)	Próba I: 13071ms	Próba II: 12982ms	Próba III: 13211ms	Średnia: 13088ms
+(iv)	Próba I: 12991ms	Próba II: 12982ms	Próba III: 13182ms	Średnia: 13051,(6)ms
+
+W (i) wariancie wyniki wychodzą losowe, ponieważ wszytskie wątki działają w tym samym czasie na jednej zmiennej.
+Wariant (ii) ma poprawny wynik, ale długi czas wykonywania, ponieważ wątki kończą pracę i czekają na możliwość zapisu do zmiennej.
+Wariant (iii) ma poprawny wynik i optymalny czas wykonania. 
+Wariant (iv) podobnie jak wariant (iii). 
+Warianty (iii) i (iv) mają bardzo podobne wyniki czasowe, raz jeden jest szybszy, raz drugi. Po kolejnym zmniejszeniu dx programy wykonywały się ponad
+2 minuty, a czas ich wykonania dalej był do siebie zbliżony (różnica 2-3 sekund).  
+
